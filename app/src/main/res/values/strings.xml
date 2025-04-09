@@ -5,4 +5,10 @@
     <string name="login">Login</string>
     <string name="enter_email">Enter your email</string>
     <string name="enter_password">Enter your password</string>
+
+    //Main Activity
+    <string name="join_room">Join Room</string>
+    <string name="enter_room_code">Enter Room Code</string>
+    <string name="logout">Logout</string>
+
 </resources>
