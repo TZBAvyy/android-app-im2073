@@ -11,4 +11,7 @@
     <string name="enter_room_code">Enter Room Code</string>
     <string name="logout">Logout</string>
 
+    //Loading Activity
+    <string name="waiting_message">Waiting for other players &#8230; </string>
+
 </resources>
