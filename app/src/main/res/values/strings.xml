@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IM2073</string>
+
+    //Login Activity
+    <string name="login">Login</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
 </resources>
